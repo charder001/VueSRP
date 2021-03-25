@@ -26,6 +26,23 @@ Vrij weinig, ik wist dat het een alternatief op React was. Echter heb ik door mi
 * Composition API, een nieuwe manier om conponents te schrijven
 * Mixins, dit concept kende ik al door React
 
+### De opdrachten
+#### Monster battle
+![image](https://user-images.githubusercontent.com/43436118/112469402-bbfdff80-8d69-11eb-8328-1698cd84be96.png)
+
+Een klein spel waarin je tegen een monster kan vechten. Jij en de monster hebben een health bar, en door middel van knoppen kan je aanvallen, healen of opgeven. In deze opdracht kwam aan bod hoe je data opslaat, knoppen functies kan laten uitvoeren en methods gebruikt om functies te schrijven.
+
+#### Learning Resources
+![image](https://user-images.githubusercontent.com/43436118/112470760-54e14a80-8d6b-11eb-906e-2f1f886be754.png)
+
+In dit project heb ik een lijst app gemaakt, waarin de gebruiker websites kan toevoegen aan een lijst, en deze week kan verwijderen. In deze opdracht kwamen componenten, props, styling, fallthrough, forms, input handling, deleting en teleporting aan bod. Het was fijn om de kennis van alle vorige secties te kunnen gebruiken en implementeren.
+
+#### Find-A-Coach
+![image](https://user-images.githubusercontent.com/43436118/112471772-96bec080-8d6c-11eb-9062-b12949094968.png)
+
+Een social media achtige applicatie waar je kan filteren en sorteren om een match te vinden (een coach).
+In deze applicatie kwamen routing, VueX, componenten, filters, registreren van gebruikers, form validatie, requests, caching en 404 aan bod. Het grootste project tot nu toe.
+
 ### Wat zijn de voornaamste verschillen met React?
 In Vue wordt voornamelijk gebruik gemaakt van HTML templates, in React wordt JSX geschreven. Hierdoor was naar mijn ervaring Vue vanaf het begin makkelijker te begrijpen omdat dit meer op traditionele HTML leek. In mijn React workflow moest alle HTML in JSX geschreven worden, wat in het begin een groot struikelblok was. Ik denk dat react uiteindelijk krachtiger en even makkelijk te lezen is als Vue, maar de eerste paar projecten zijn zeker makkelijker om op te pakken in Vue.
 
