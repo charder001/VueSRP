@@ -16,9 +16,9 @@ Vrij weinig, ik wist dat het een alternatief op React was. Echter heb ik door mi
 
 ### Wat heb ik geleerd over Vue?
 * Syntax (v-on, v-bind, v-if, etc.)
-* Vue app Lifecycle
-* Components, hoe ik ze kan maken en kan laten communiceren
-* Form data manipulatie en validatie
+* Vue app Lifecycle, hoe een Vue applicatie "leeft" achter de schermen
+* Components, hoe ik ze kan maken, kan laten communiceren en stylen
+* Form data manipulatie, validatie en feedback
 * HTTP requests
 * Ingebouwde routing features
 * VueX, het opslaan en manipuleren van data
