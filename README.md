@@ -1,6 +1,6 @@
 # Udemy course VUE
 
-Dit is de repository voor de Udemy course die ik heb gevolgd over Vue. Deze bevat de opdrachten die ik gemaakt heb, mijn behaalde certificaat omdat ik de course voltooid heb en een reflectie over waar ik stond als developer, wat ik geleerd heb en wat ik in de toekomst mee neem.
+Dit is de repository voor de Udemy course die ik heb gevolgd over Vue. Deze bevat de opdrachten die ik gemaakt heb, mijn behaalde certificaat omdat ik de course voltooid heb en een reflectie over waar ik stond als developer, wat ik geleerd heb en wat ik in de toekomst mee neem. De cursus bevat 50 uur aan beeldmateriaal, voorbeelden en verschillende opdrachten die de cursist moet maken.
 
 ## Certificaat van voltooiing
 
